@@ -47,7 +47,7 @@ h3 {
 		width: 30%;
 		height: 155px;
 		float: left;
-		overflow: hidden;
+		overflow: auto;
 	}
 
 	p {
