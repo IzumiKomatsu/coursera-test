@@ -10,8 +10,8 @@ body {
 
 header {
 	text-align: center;
-	font-size: 175%;
 	margin-top: 3%;
+	font-size: 175%;
 }
 
 h3 {
@@ -68,7 +68,7 @@ h3 {
 		margin-right: 2.5%;
 		border: 1px solid black;
 		width: 45%;
-		height: 150px;
+		height: 155px;
 		float: left;
 		overflow: hidden;
 	}
@@ -95,9 +95,9 @@ h3 {
 		margin-right: 10%;
 		border: 1px solid black;
 		width: 80%;
-		height: 135px;
+		/*height: 135px;*/
 		float: left;
-		overflow: hidden;
+		/*overflow: hidden;*/
 	}
 
 	p {
