@@ -1,0 +1,27 @@
+
+#header-navbar {
+	background-color: #F5B7B1;
+	border-radius: 0;
+}
+
+#navbar-collapse ul{
+	background-color: #FADBD8;
+	font-size: 20px;
+}
+
+.navbar-brand {
+	color: #AF7AC5;
+	font-size: 30px;
+}
+
+h1 {
+	margin: 30px auto 30px auto;
+}
+
+#chicken-box, #beef-box, #sushi-box {
+	border: 2px solid #F5B041;
+	padding: 0 20px 0 20px;
+	margin-bottom: 30px;
+
+}
+
